@@ -1,5 +1,6 @@
 #!/bin/bash
 # Script para mover arquivos do /tmp para uma pasta de compartilhamento
+
 src="/tmp/calculadora_projeto"
 dest="/caminho/para/compartilhamento"
 
