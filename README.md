@@ -1,3 +1,14 @@
+```
+            _____                     _____     _         
+           |   __|___ ___ _ _ ___ ___|  _  |_ _| |___ ___     
+           |__   | -_|  _| | | -_|  _|   __| | | |_ -| -_|     
+           |_____|___|_|  \_/|___|_| |__|  |___|_|___|___|
+                                                             _)       |        
+                                                __|  __|  __| | __ \  __|  __| 
+                                              \__ \ (    |    | |   | |  \__ \ 
+                                              ____/\___|_|   _| .__/ \__|____/ 
+                                                               _|                                           
+```
 # ServerPulse-scripts
 
 Este repositório armazena scripts que podem ser usados para automatizar tarefas e facilitar o gerenciamento do sistema. Os scripts foram desenvolvidos para diversas finalidades, incluindo manutenção do servidor, backup, monitoramento e execução de tarefas recorrentes.
