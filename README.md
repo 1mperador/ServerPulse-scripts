@@ -22,13 +22,19 @@ Este repositório armazena scripts que podem ser usados para automatizar tarefas
 - `utilidades/gerar_relatorio.sh`: Gera um relatório resumido do status do servidor.
 
 ## Como Usar os Scripts
-
 Cada script possui cabeçalhos comentados com as instruções de uso e os requisitos necessários. Para executar um script, basta garantir que ele tem permissões de execução e rodá-lo com:
 
+### MONITORAMENTO
+
 ```bash
-  ./nome_do_script.sh
+  ./monitor.sh
 ```
-Caminho:
+
+### BACKUP
+Execute o script:
+
+```bash
+./backup.sh
 ```
- * * * * * /srv/scripts/escolha o script desejado
-```
+
+OB: Eu estou fazendo isso no mesmo servidor como exemplo, você coloca em um Hd externo.
