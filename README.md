@@ -37,4 +37,4 @@ Execute o script:
 ./backup.sh
 ```
 
-OB: Eu estou fazendo isso no mesmo servidor como exemplo, você coloca em um Hd externo.
+💡OB: Eu estou fazendo isso no mesmo servidor como exemplo, você coloca em um Hd externo.
